@@ -9,6 +9,7 @@ Hi! I'm an aspiring cybersecurity and IT enthusiast. Here's what I'm currently w
 ## 📜 Certificates
 
 - ✅ [Learn Python 3 – Codecademy Certificate](./learn-python-3-codecademy.pdf)
+- ✅ [Intro to Cloud Computing – Codecademy Certificate](./cloud-computing-intro-codeacademy.pdf)
 
 ---
 
