@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Steam90902/Steam90902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub
 
-Here are some ideas to get you started:
+Hi! I'm an aspiring cybersecurity and IT enthusiast. Here's what I'm currently working on and learning:
+
+---
+
+## 📜 Certificates
+
+- ✅ [Learn Python 3 – Codecademy Certificate](./learn-python-3-codecademy.pdf)
+
+---
+
+## 🛠️ Skills I'm Developing
+
+- Cybersecurity fundamentals
+- IT support basics (CompTIA A+ style)
+- Conflict resolution and mediation
+- Cloud server deployment and Linux command line
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with project ideas - I want something to do.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: gabassumani@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
