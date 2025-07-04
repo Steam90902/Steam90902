@@ -10,6 +10,7 @@ Hi! I'm an aspiring cybersecurity and IT enthusiast. Here's what I'm currently w
 
 - ✅ [Learn Python 3 – Codecademy Certificate](./learn-python-3-codecademy.pdf)
 - ✅ [Intro to Cloud Computing – Codecademy Certificate](./cloud-computing-intro-codeacademy.pdf)
+- ✅ [Commeonwealth Bank Tech Explorer Job Simulation - Forage](./Forage_TechExplorer.pdf)
 
 ---
 
