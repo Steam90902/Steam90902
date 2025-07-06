@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Welcome to My GitHub
+# 👋 Welcome to My GitHub (Portfolio?)
 
 Hi! I'm an aspiring cybersecurity and IT enthusiast. Here's what I'm currently working on and learning:
 
