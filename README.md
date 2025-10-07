@@ -19,5 +19,5 @@ Hi! I'm an aspiring cybersecurity and IT enthusiast. Here's what I'm currently w
 - IT support basics (CompTIA A+ style)
 - Cloud server deployment and Linux command line
 - C#
-- 
+- A coding project :D ( https://github.com/Steam90902/cliPython )
 -->
