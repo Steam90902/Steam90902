@@ -10,7 +10,7 @@ Hi! I'm an aspiring cybersecurity and IT enthusiast. Here's what I'm currently w
 - ✅ [Intro to Cloud Computing – Codecademy Certificate](./cloud-computing-intro-codeacademy.pdf)
 - ✅ [Commeonwealth Bank Tech Explorer Job Simulation - Forage](./Forage_TechExplorer.pdf)
 - ✅ [Electronic Arts Software Engineering Job Simulation - Forage](./Forage_SoftwareEngineer.pdf)
-- ✅ [OCI AI Foundations Associate certification ](./eCertificate (OCI AI Foundations).pdf)
+- ✅ [OCI AI Foundations Associate certification ](./eCertificate(OCI_AI_Foundations).pdf)
 ---
 
 ## 🛠️ Skills I'm Developing
